@@ -1,10 +1,10 @@
-package mingorance.cano.simplespringmicroserviceaws1;
+package mingorance.cano.simplespringmicroserviceaws2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpleSpringMicroserviceAws1ApplicationTests {
+class SimpleSpringMicroserviceAws2ApplicationTests {
 
 	@Test
 	void contextLoads() {
